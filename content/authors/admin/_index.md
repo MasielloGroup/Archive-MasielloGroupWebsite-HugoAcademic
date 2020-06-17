@@ -1,48 +1,44 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include building simple yet rich theoretical models and numerical simulation tools to understand nanoscale optical, magnetic, electronic, and thermal phenomena mediated by surface plasmons.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Chemical Physics
+    institution: University of Florida
+    year: 2004
+  - course: BS in Mathematics
+    institution: University of Florida
+    year: 1999
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Interest 1
+- Interest 2
+- Interest 3
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: University of Washington 
+  url: "http://www.chem.washington.edu/"
+role: Professor of Chemistry
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=SMJruaYAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MasielloGroup
 superuser: true
-title: Nelson Bighetti
+title: David Masiello
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+David Masiello is a Professor of Chemistry, Adjunct Professor of Applied Mathematics, and Adjunct Professor of Materials Science and Engineering at the University of Washington. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The Masiello Research Group is composed of theoreticians with backgrounds in chemistry, physics, electrical engineering, materials science and engineering, and applied mathematics working at the interface of plasmonics, nanophotonics, and quantum optics. Our research is aimed at providing insight and understanding to the discovery of optical, magnetic, electronic, and thermal phenomena spanning from the nanoscale to many tens of microns. Connection to experiment is integral to our work is connected deeply to experimental efforts worldwide.
