@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Smith | Masiello Research Group</title>
+    <link>/author/kevin-smith/</link>
+      <atom:link href="/author/kevin-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>/author/kevin-smith/avatar_huef02a80b26a310dacaf093b7906c128e_348854_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Kevin Smith</title>
+      <link>/author/kevin-smith/</link>
+    </image>
+    
+  </channel>
+</rss>
