@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven C. Quillin | Masiello Research Group</title>
+    <link>/author/steven-c.-quillin/</link>
+      <atom:link href="/author/steven-c.-quillin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven C. Quillin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>Steven C. Quillin</title>
+      <link>/author/steven-c.-quillin/</link>
+    </image>
+    
+    <item>
+      <title>Multipolar Nanocube Plasmon Mode-Mixing in Finite Substrates</title>
+      <link>/publication/2018-01-01_multipolar_nanocube_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_multipolar_nanocube_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

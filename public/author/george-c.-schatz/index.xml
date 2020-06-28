@@ -5,12 +5,20 @@
     <link>/author/george-c.-schatz/</link>
       <atom:link href="/author/george-c.-schatz/index.xml" rel="self" type="application/rss+xml" />
     <description>George C. Schatz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
       <title>George C. Schatz</title>
       <link>/author/george-c.-schatz/</link>
     </image>
+    
+    <item>
+      <title>Chapter 6 Computational Electrodynamics Methods</title>
+      <link>/publication/2011-01-01_chapter_6_computatio/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-01-01_chapter_6_computatio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the linear response and scattering of an interacting molecule-metal system</title>

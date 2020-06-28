@@ -5,12 +5,92 @@
     <link>/author/david-j.-masiello/</link>
       <atom:link href="/author/david-j.-masiello/index.xml" rel="self" type="application/rss+xml" />
     <description>David J. Masiello</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
       <title>David J. Masiello</title>
       <link>/author/david-j.-masiello/</link>
     </image>
+    
+    <item>
+      <title>Multipolar Nanocube Plasmon Mode-Mixing in Finite Substrates</title>
+      <link>/publication/2018-01-01_multipolar_nanocube_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_multipolar_nanocube_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Localized Surface Plasmons Using Electron Energy-Loss Spectroscopy</title>
+      <link>/publication/2016-01-01_characterizing_local/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_characterizing_local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electron Energy Loss Spectroscopy Study of the Full Plasmonic Spectrum of Self-Assembled Au–Ag Alloy Nanoparticles: Unraveling Size, Composition, and Substrate Effects</title>
+      <link>/publication/2016-01-01_electron_energy_loss/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_electron_energy_loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Beats from Entangled Localized Surface Plasmons</title>
+      <link>/publication/2015-01-01_quantum_beats_from_e/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-01-01_quantum_beats_from_e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charge-Tunable Quantum Plasmons in Colloidal Semiconductor Nanocrystals</title>
+      <link>/publication/2014-01-01_charge-tunable_quant/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_charge-tunable_quant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined Tight-Binding and Numerical Electrodynamics Understanding of the STEM/EELS Magneto-optical Responses of Aromatic Plasmon-Supporting Metal Oligomers</title>
+      <link>/publication/2014-01-01_combined_tight-bindi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_combined_tight-bindi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale theory and simulation of plasmon-enhanced molecular optical processes</title>
+      <link>/publication/2014-01-01_multiscale_theory_an/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_multiscale_theory_an/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Signatures of Plasmonic Fano Interferences: Toward the Achievement of Nanolocalized Temperature Manipulation</title>
+      <link>/publication/2014-01-01_thermal_signatures_o/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_thermal_signatures_o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular-Electronic Structure in a Plasmonic Environment: Elucidating the Quantum Image Interaction</title>
+      <link>/publication/2013-01-01_molecular-electronic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-01-01_molecular-electronic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signatures of Fano Interferences in the Electron Energy Loss Spectroscopy and Cathodoluminescence of Symmetry-Broken Nanorod Dimers</title>
+      <link>/publication/2013-01-01_signatures_of_fano_i/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-01-01_signatures_of_fano_i/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Characterization of the Electron- and Photon-Driven Plasmonic Excitations of Metal Nanorods</title>
@@ -33,6 +113,14 @@
       <link>/publication/2012-01-01_super-resolution_ima/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/2012-01-01_super-resolution_ima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 6 Computational Electrodynamics Methods</title>
+      <link>/publication/2011-01-01_chapter_6_computatio/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-01-01_chapter_6_computatio/</guid>
       <description></description>
     </item>
     

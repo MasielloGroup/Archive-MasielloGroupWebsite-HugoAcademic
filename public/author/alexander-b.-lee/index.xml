@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander B. Lee | Masiello Research Group</title>
+    <link>/author/alexander-b.-lee/</link>
+      <atom:link href="/author/alexander-b.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander B. Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>Alexander B. Lee</title>
+      <link>/author/alexander-b.-lee/</link>
+    </image>
+    
+    <item>
+      <title>Molecular-Electronic Structure in a Plasmonic Environment: Elucidating the Quantum Image Interaction</title>
+      <link>/publication/2013-01-01_molecular-electronic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-01-01_molecular-electronic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -127,7 +127,9 @@ bibtex_2academic <- function(bibfile,
       write("projects = []", fileConn, append = T)
       write("tags = []", fileConn, append = T)
       #links
+      if (!is.na(x[["url"]])){
       write(paste0("url_pdf = \"", x[["url"]],"\""), fileConn, append = T)
+      }
       write("url_preprint = \"\"", fileConn, append = T)
       write("url_code = \"\"", fileConn, append = T)
       write("url_dataset = \"\"", fileConn, append = T)

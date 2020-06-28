@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yueying Wu | Masiello Research Group</title>
+    <link>/author/yueying-wu/</link>
+      <atom:link href="/author/yueying-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yueying Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>Yueying Wu</title>
+      <link>/author/yueying-wu/</link>
+    </image>
+    
+    <item>
+      <title>Electron Energy Loss Spectroscopy Study of the Full Plasmonic Spectrum of Self-Assembled Au–Ag Alloy Nanoparticles: Unraveling Size, Composition, and Substrate Effects</title>
+      <link>/publication/2016-01-01_electron_energy_loss/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_electron_energy_loss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,52 @@
     <link>/author/charles-cherqui/</link>
       <atom:link href="/author/charles-cherqui/index.xml" rel="self" type="application/rss+xml" />
     <description>Charles Cherqui</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/charles-cherqui/avatar_hu7fba9da1679ce4a56c592454604cb9c1_44489_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
       <title>Charles Cherqui</title>
       <link>/author/charles-cherqui/</link>
     </image>
+    
+    <item>
+      <title>Multipolar Nanocube Plasmon Mode-Mixing in Finite Substrates</title>
+      <link>/publication/2018-01-01_multipolar_nanocube_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_multipolar_nanocube_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Localized Surface Plasmons Using Electron Energy-Loss Spectroscopy</title>
+      <link>/publication/2016-01-01_characterizing_local/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_characterizing_local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electron Energy Loss Spectroscopy Study of the Full Plasmonic Spectrum of Self-Assembled Au–Ag Alloy Nanoparticles: Unraveling Size, Composition, and Substrate Effects</title>
+      <link>/publication/2016-01-01_electron_energy_loss/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_electron_energy_loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Beats from Entangled Localized Surface Plasmons</title>
+      <link>/publication/2015-01-01_quantum_beats_from_e/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-01-01_quantum_beats_from_e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined Tight-Binding and Numerical Electrodynamics Understanding of the STEM/EELS Magneto-optical Responses of Aromatic Plasmon-Supporting Metal Oligomers</title>
+      <link>/publication/2014-01-01_combined_tight-bindi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_combined_tight-bindi/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

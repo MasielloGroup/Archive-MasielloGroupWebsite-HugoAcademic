@@ -5,12 +5,44 @@
     <link>/author/jon-p.-camden/</link>
       <atom:link href="/author/jon-p.-camden/index.xml" rel="self" type="application/rss+xml" />
     <description>Jon P. Camden</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
       <title>Jon P. Camden</title>
       <link>/author/jon-p.-camden/</link>
     </image>
+    
+    <item>
+      <title>Multipolar Nanocube Plasmon Mode-Mixing in Finite Substrates</title>
+      <link>/publication/2018-01-01_multipolar_nanocube_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_multipolar_nanocube_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Localized Surface Plasmons Using Electron Energy-Loss Spectroscopy</title>
+      <link>/publication/2016-01-01_characterizing_local/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_characterizing_local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electron Energy Loss Spectroscopy Study of the Full Plasmonic Spectrum of Self-Assembled Au–Ag Alloy Nanoparticles: Unraveling Size, Composition, and Substrate Effects</title>
+      <link>/publication/2016-01-01_electron_energy_loss/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_electron_energy_loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signatures of Fano Interferences in the Electron Energy Loss Spectroscopy and Cathodoluminescence of Symmetry-Broken Nanorod Dimers</title>
+      <link>/publication/2013-01-01_signatures_of_fano_i/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-01-01_signatures_of_fano_i/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Characterization of the Electron- and Photon-Driven Plasmonic Excitations of Metal Nanorods</title>

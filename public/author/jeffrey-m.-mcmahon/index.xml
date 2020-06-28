@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey M. McMahon | Masiello Research Group</title>
+    <link>/author/jeffrey-m.-mcmahon/</link>
+      <atom:link href="/author/jeffrey-m.-mcmahon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeffrey M. McMahon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>Jeffrey M. McMahon</title>
+      <link>/author/jeffrey-m.-mcmahon/</link>
+    </image>
+    
+    <item>
+      <title>Chapter 6 Computational Electrodynamics Methods</title>
+      <link>/publication/2011-01-01_chapter_6_computatio/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-01-01_chapter_6_computatio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -113,6 +113,46 @@
   </url>
   
   <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/charles-cherqui/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-j.-masiello/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/guoliang-li/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jacob-a.-busche/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jon-p.-camden/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-01-01_multipolar_nanocube_/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/steven-c.-quillin/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -173,8 +213,33 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016-01-01_characterizing_local/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-01-01_electron_energy_loss/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicholas-w.-bigelow/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/niket-thakkar/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/philip-d.-rack/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yueying-wu/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -218,6 +283,116 @@
   </url>
   
   <url>
+    <loc>/author/c.-cherqui/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/g.-duscher/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/g.-li/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/n.-w.-bigelow/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p.-j.-et-al.-straney/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-01-01_quantum_beats_from_e/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-01-01_spatially_mapping_en/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alex-vaschillo/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alina-m.-schimpf/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/carolyn-e.-gunthardt/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-01-01_charge-tunable_quant/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christopher-l.-baldwin/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-01-01_combined_tight-bindi/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-r.-gamelin/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/harrison-goldwyn/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-01-01_multiscale_theory_an/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/n.-mirsaleh-kohan/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p.-d.-jr.-et-al.-simmons/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-01-01_resonance-rayleigh_s/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-griffin/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-01-01_thermal_signatures_o/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/v.-iberi/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -228,8 +403,28 @@
   </url>
   
   <url>
-    <loc>/author/alex-vaschillo/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>/author/alexander-b.-lee/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jonathan-p.-litz/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-01-01_molecular-electronic/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ryan-p.-brewster/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-01-01_signatures_of_fano_i/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -244,11 +439,6 @@
   
   <url>
     <loc>/publication/2012-01-01_characterization_of_/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/david-j.-masiello/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,16 +468,6 @@
   </url>
   
   <url>
-    <loc>/author/jon-p.-camden/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jonathan-p.-litz/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/katherine-a.-willets/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -309,11 +489,6 @@
   
   <url>
     <loc>/author/nasrin-mirsaleh-kohan/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/nicholas-w.-bigelow/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -358,6 +533,31 @@
   </url>
   
   <url>
+    <loc>/publication/2011-01-01_chapter_6_computatio/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/george-c.-schatz/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jeffrey-m.-mcmahon/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/logan-k.-ausman/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nadine-harris/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/2011-01-01_spatial_spectral_a/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -369,11 +569,6 @@
   
   <url>
     <loc>/publication/2010-01-01_cooperative_near-fie/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/george-c.-schatz/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
