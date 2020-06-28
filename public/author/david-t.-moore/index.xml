@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David T. Moore | Masiello Research Group</title>
+    <link>/author/david-t.-moore/</link>
+      <atom:link href="/author/david-t.-moore/index.xml" rel="self" type="application/rss+xml" />
+    <description>David T. Moore</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>David T. Moore</title>
+      <link>/author/david-t.-moore/</link>
+    </image>
+    
+    <item>
+      <title>Submicrosecond Time Resolution Atomic Force Microscopy for Probing Nanoscale Dynamics</title>
+      <link>/publication/2012-01-01_submicrosecond_time_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-01-01_submicrosecond_time_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

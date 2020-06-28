@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard P. Van Duyne | Masiello Research Group</title>
+    <link>/author/richard-p.-van-duyne/</link>
+      <atom:link href="/author/richard-p.-van-duyne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard P. Van Duyne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>Richard P. Van Duyne</title>
+      <link>/author/richard-p.-van-duyne/</link>
+    </image>
+    
+    <item>
+      <title>Surface-Enhanced Raman Excitation Spectroscopy of a Single Rhodamine 6G Molecule</title>
+      <link>/publication/2009-01-01_surface-enhanced_ram/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-01-01_surface-enhanced_ram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing the Structure of Single-Molecule Surface-Enhanced Raman Scattering Hot Spots</title>
+      <link>/publication/2008-01-01_probing_the_structur/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008-01-01_probing_the_structur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

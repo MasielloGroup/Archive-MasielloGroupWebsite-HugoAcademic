@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-  image: ""
+  image: "" # Name of image in `static/img/`
 title: Publications
 view: 4
 ---

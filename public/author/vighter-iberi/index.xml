@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vighter Iberi | Masiello Research Group</title>
+    <link>/author/vighter-iberi/</link>
+      <atom:link href="/author/vighter-iberi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vighter Iberi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>Vighter Iberi</title>
+      <link>/author/vighter-iberi/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of the Electron- and Photon-Driven Plasmonic Excitations of Metal Nanorods</title>
+      <link>/publication/2012-01-01_characterization_of_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-01-01_characterization_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Molecule Surface-Enhanced Raman Scattering: Can STEM/EELS Image Electromagnetic Hot Spots?</title>
+      <link>/publication/2012-01-01_single-molecule_surf/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-01-01_single-molecule_surf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

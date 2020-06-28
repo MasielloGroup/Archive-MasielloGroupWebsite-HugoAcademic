@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George C. Schatz | Masiello Research Group</title>
+    <link>/author/george-c.-schatz/</link>
+      <atom:link href="/author/george-c.-schatz/index.xml" rel="self" type="application/rss+xml" />
+    <description>George C. Schatz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>George C. Schatz</title>
+      <link>/author/george-c.-schatz/</link>
+    </image>
+    
+    <item>
+      <title>On the linear response and scattering of an interacting molecule-metal system</title>
+      <link>/publication/2010-01-01_on_the_linear_respon/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-01-01_on_the_linear_respon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface-Enhanced Raman Excitation Spectroscopy of a Single Rhodamine 6G Molecule</title>
+      <link>/publication/2009-01-01_surface-enhanced_ram/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-01-01_surface-enhanced_ram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many-body theory of surface-enhanced Raman scattering</title>
+      <link>/publication/2008-01-01_many-body_theory_of_/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008-01-01_many-body_theory_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing the Structure of Single-Molecule Surface-Enhanced Raman Scattering Hot Spots</title>
+      <link>/publication/2008-01-01_probing_the_structur/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008-01-01_probing_the_structur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

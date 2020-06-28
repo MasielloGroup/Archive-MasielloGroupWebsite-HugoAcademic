@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yngve Ohrn | Masiello Research Group</title>
+    <link>/author/yngve-ohrn/</link>
+      <atom:link href="/author/yngve-ohrn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yngve Ohrn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu259745bebaa9c981d5624ee904d75dc7_4782_300x300_fit_lanczos_2.png</url>
+      <title>Yngve Ohrn</title>
+      <link>/author/yngve-ohrn/</link>
+    </image>
+    
+    <item>
+      <title>On the Canonical Formulation of Electrodynamics and Wave Mechanics</title>
+      <link>/publication/2005-01-01_on_the_canonical_for/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/2005-01-01_on_the_canonical_for/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
