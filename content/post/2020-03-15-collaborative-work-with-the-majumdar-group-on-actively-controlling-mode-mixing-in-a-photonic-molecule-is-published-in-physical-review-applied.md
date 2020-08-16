@@ -16,5 +16,5 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+external_link: 'https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.044041'
 ---
-[Link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.044041)

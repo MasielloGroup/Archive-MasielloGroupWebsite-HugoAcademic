@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Group News (was Projects)"
@@ -19,27 +19,27 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-  
-  [[content.filter_button]]
-    name = "Publications"
-    tag = "Publications"
-  
-  [[content.filter_button]]
-    name = "Awards"
-    tag = "Awards"
-      
-  [[content.filter_button]]
-    name = "Group News"
-    tag = "Group News"      
-    
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Other"
+  # filter_default = 0
+  # 
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
+  # 
+  # [[content.filter_button]]
+  #   name = "Publications"
+  #   tag = "Publications"
+  # 
+  # [[content.filter_button]]
+  #   name = "Awards"
+  #   tag = "Awards"
+  #     
+  # [[content.filter_button]]
+  #   name = "Group News"
+  #   tag = "Group News"      
+  #   
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
-title = "Skills"
+title = "Research Thrusts"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,29 +15,29 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "bolt"
+  icon_pack = "fas"
+  name = "fast electron <br> nano-spectroscopy"
+  # description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "microscope"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "photothermal spectroscopy <br> and microscopy"
+  # description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "lightbulb"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "nanophotonics"
+  # description = "10%"
+  
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+[[feature]]
+ icon = "atom"
+ icon_pack = "fas"
+ name = "quantum optics"
+ # description = "100%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.

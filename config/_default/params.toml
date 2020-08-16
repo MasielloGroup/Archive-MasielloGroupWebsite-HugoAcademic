@@ -22,7 +22,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "classic"
+font = "my_font_set"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = false, page = false, post = false, project = false, publication = false, talk = false}
 
 ############################
 ## Contact details
@@ -93,7 +93,7 @@ phone = "206-543-5579"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Chemistry, CHB 304F???"} #Box 351700", city = "Seattle", region = "WA", postcode = "98195-1700", country = "United States", country_code = "US"}
+address = {street = "Department of Chemistry, CHB 304F", city = "Seattle", region = "WA", postcode = "98195-1700", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -167,7 +167,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 highlight_superuser = false
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135

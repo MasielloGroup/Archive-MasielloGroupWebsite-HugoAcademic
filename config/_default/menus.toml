@@ -9,24 +9,25 @@
 #  weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "News"
   url = "#posts"
   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "People"
+  url = "#people"
   weight = 40
 
 [[main]]
-  name = "Courses"
+  name = "Codes"
   url = "courses/"
   weight = 50
+  
+[[main]]
+  name = "NSF DMREF"
+  url = "courses/"
+  weight = 55
 
 [[main]]
   name = "Contact"
