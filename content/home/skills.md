@@ -14,17 +14,17 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+
 [[feature]]
   icon = "bolt"
   icon_pack = "fas"
   name = "fast electron <br> nano-spectroscopy"
   # description = "90%"
-  
-[[feature]]
-  icon = "microscope"
-  icon_pack = "fas"
-  name = "photothermal spectroscopy <br> and microscopy"
-  # description = "100%"  
+
   
 [[feature]]
   icon = "lightbulb"
@@ -32,11 +32,25 @@ subtitle = ""
   name = "nanophotonics"
   # description = "10%"
   
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "photothermal spectroscopy <br> and microscopy"
+  # description = "100%"  
+
+  
 
 [[feature]]
  icon = "atom"
  icon_pack = "fas"
  name = "quantum optics"
+ # description = "100%"
+ 
+ 
+[[feature]]
+ icon = "coffee"
+ icon_pack = "fas"
+ name = "coffee"
  # description = "100%"
 
 # Uncomment to use custom SVG icons.
