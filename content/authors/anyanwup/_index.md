@@ -22,6 +22,7 @@ email: ""
 # - name: Stanford University
 #   url: ""
 role: Graduate Student, Chemistry
+degrees: B.S. Chemistry, Bard College
 # social:
 # - icon: envelope
 #   icon_pack: fas

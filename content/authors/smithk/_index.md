@@ -22,6 +22,7 @@ email: ""
 # - name: Stanford University
 #   url: ""
 role: Graduate Student, Physics
+degrees: B.S. Physics and Mathematics, UMass Amherst
 # social:
 # - icon: envelope
 #   icon_pack: fas

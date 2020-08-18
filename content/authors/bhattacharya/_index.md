@@ -22,6 +22,7 @@ email: ""
 # - name: Stanford University
 #   url: ""
 role: Post-Doctoral Fellow
+degrees: Ph.D. Electrical Engineering, University of Michigan <br> B.E. Electrical Engineering, Indian Institute of Engineering Science and Technology
 # social:
 # - icon: envelope
 #   icon_pack: fas

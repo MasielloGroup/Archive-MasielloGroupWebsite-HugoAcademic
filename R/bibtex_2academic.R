@@ -99,13 +99,13 @@ bibtex_2academic <- function(bibfile,
       # Publication details: journal, volume, issue, page numbers and doi link
       publication <- x[["journal"]]
       if (!is.na(x[["volume"]])) publication <- paste0(publication,
-                                                       ", (", x[["volume"]], ")")
+                                                       ", **", x[["volume"]], "**")
       # if (!is.na(x[["number"]])) publication <- paste0(publication,
       #                                                  ", ", x[["number"]])
       if (!is.na(x[["pages"]])) publication <- paste0(publication,
                                                       ", _pp. ", x[["pages"]], "_")
       if (!is.na(x[["year"]])) publication <- paste0(publication,
-                                                     ", (", x[["year"]], ")")      
+                                                     " (", x[["year"]], ").")      
       # if (!is.na(x[["doi"]])) publication <- paste0(publication,
       #                                               ", ", paste0("https://doi.org/",
       #                                                            x[["doi"]]))

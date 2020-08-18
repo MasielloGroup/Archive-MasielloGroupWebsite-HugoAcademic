@@ -22,6 +22,7 @@ email: ""
 # - name: Stanford University
 #   url: ""
 role: Graduate Student, Chemistry
+degrees: B.S. Physics, Oregon State University
 # social:
 # - icon: envelope
 #   icon_pack: fas

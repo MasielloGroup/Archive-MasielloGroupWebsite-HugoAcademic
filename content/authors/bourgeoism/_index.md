@@ -2,17 +2,17 @@
 authors:
 - bourgeoism
 # bio: bio
-# education:
-#   courses:
-#   - course: Ph.D. Physics
-#     institution: University of New Mexico & Los Alamos National Laboratory
-#      # year: 
-#   - course: B.S. Physics
-#     institution: Loyola University Chicago
-#     # year: 
-#   - course: B.S. Mathematics
-#     institution: Loyola University Chicago
-#     # year: 
+education:
+  courses:
+  - course: Ph.D. Chemistry
+    institution: Northwestern University
+     # year:
+  - course: M.S. Physics
+    institution: University of Arizona
+    # year:
+  - course: B.A. Physics, Math, and Integrated Sciences
+    institution: Northwestern University
+    # year:
 email: ""
 # interests:
 # - Artificial Intelligence
@@ -22,6 +22,7 @@ email: ""
 # - name: Stanford University
 #   url: ""
 role: Post-Doctoral Fellow
+degrees: Ph.D. Chemistry, Northwestern University <br> M.S. Physics, University of Arizona <br> B.A. Physics, Math, and Integrated Sciences, Northwestern University 
 # social:
 # - icon: envelope
 #   icon_pack: fas

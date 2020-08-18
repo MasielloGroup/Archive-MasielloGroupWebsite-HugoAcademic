@@ -12,7 +12,11 @@
   name = "News"
   url = "#posts"
   weight = 10
-
+  
+[[main]]
+  name = "Research"
+  url = "#projects"
+  weight = 15
 
 [[main]]
   name = "People"
@@ -24,15 +28,30 @@
   url = "#publications"
   weight = 30
 
-[[main]]
-  name = "Codes"
-  url = "courses/"
-  weight = 50
+
   
 [[main]]
   name = "NSF DMREF"
   url = "courses/"
+  weight = 35
+  
+[[main]]
+  name = "e-DDA"
+  url = "codes/e-dda"
+  parent = "Codes"
+  weight = 50
+  
+[[main]]
+  name = "T-DDA"
+  url = "codes/t-dda"
+  parent = "Codes"
   weight = 55
+  
+[[main]]
+  name = "Codes"
+  url = ""
+  weight = 40  
+
 
 [[main]]
   name = "Contact"

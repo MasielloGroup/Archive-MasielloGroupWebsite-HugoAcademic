@@ -11,14 +11,15 @@ education:
     institution: University of Florida
     year: 1999
 email: "masiello@uw.edu"
-interests:
-- Roasting coffee
-- Interest 2
-- Interest 3
+# interests:
+# - Roasting coffee
+# - Interest 2
+# - Interest 3
 organizations:
 - name: University of Washington 
   url: "http://www.chem.washington.edu/"
 role: Professor of Chemistry
+degrees: Ph.D Chemical Physics, University of Florida <br> B.S. Mathematics, University of Florida
 social:
 - icon: envelope
   icon_pack: fas

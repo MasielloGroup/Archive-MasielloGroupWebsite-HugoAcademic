@@ -2,10 +2,10 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Group News (was Projects)"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -43,14 +43,14 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
-  # Toggle between the various page layout types.
+# Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
