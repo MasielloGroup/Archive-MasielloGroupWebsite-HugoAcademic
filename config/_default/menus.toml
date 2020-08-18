@@ -32,7 +32,7 @@
   
 [[main]]
   name = "NSF DMREF"
-  url = "courses/"
+  url = "nsf_dmref/"
   weight = 35
   
 [[main]]

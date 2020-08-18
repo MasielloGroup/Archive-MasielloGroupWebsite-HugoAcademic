@@ -1,16 +1,16 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-08-17T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+slides: 
+summary: 
 # tags:
 # - 
 title: Fast Electron Nano-spectroscopy
