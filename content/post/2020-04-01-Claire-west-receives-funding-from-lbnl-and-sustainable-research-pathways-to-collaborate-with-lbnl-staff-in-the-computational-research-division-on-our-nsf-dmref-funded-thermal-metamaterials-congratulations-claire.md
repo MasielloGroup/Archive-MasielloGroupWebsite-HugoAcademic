@@ -17,5 +17,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+authors:
+- westc
 ---
 

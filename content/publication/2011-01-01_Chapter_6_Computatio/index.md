@@ -2,7 +2,7 @@
 title = "Chapter 6 Computational Electrodynamics Methods"
 date = "2011-01-01"
 authors = ["Nadine Harris", "Logan K. Ausman", "Jeffrey M. McMahon", "David J. Masiello", "George C. Schatz"]
-publication_types = ["6"]
+publication_types = ["2"]
 publication = "NA, _pp. 147-178_ (2011)."
 publication_short = "NA, _pp. 147-178_ (2011)."
 abstract = ""
