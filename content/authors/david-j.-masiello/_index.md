@@ -14,10 +14,10 @@ education:
     institution: University of Florida
     year: 1999
 email: "masiello@uw.edu"
-# interests:
-# - Roasting coffee
-# - Interest 2
-# - Interest 3
+interests:
+- Roasting coffee
+- Interest 2
+- Interest 3
 organizations:
 - name: University of Washington 
   url: "http://www.chem.washington.edu/"
