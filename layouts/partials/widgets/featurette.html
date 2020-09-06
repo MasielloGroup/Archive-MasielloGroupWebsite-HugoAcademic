@@ -18,9 +18,11 @@
       {{ $pack_prefix = "fa" }}
     {{ end }}
     <div class="col-sm-4 featurette">
+      <a href={{.url}}>
       {{ with .icon }}<div class="featurette-icon"><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i></div>{{ end }}
       <h4>{{ .name | markdownify | emojify }}</h4>
       {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+    </a>
     </div>
     {{ end }}
     </div>
@@ -49,9 +51,11 @@
     {{ $pack_prefix = "fa" }}
   {{ end }}
   <div class="col-12 col-sm-4">
+    <a href={{.url}}>
     {{ with .icon }}<div class="featurette-icon"><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i></div>{{ end }}
     <h4>{{ .name | markdownify | emojify }}</h4>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+    </a>  
   </div>
   {{ end }}
 </div>
