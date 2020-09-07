@@ -50,4 +50,6 @@ weight = 11  # Order that this section will appear.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-We are a group of theoreticians with diverse backgrounds in chemistry, physics, electrical engineering, materials science, and applied mathematics working at the interface of plasmonics, nanophotonics, and quantum optics. Our research provides insight and understanding in the discovery of quantum, optical, magnetic, and thermal materials phenomena spanning the frontiers of space and energy resolution. Deep connection to experiment influences everything we do.
+<div style="text-align: justify">
+We are a group of theoreticians with diverse backgrounds in chemistry, physics, electrical engineering, materials science, and applied mathematics working at the interface of plasmonics, nanophotonics, and quantum optics. Our research provides insight and understanding in the discovery of quantum, optical, magnetic, and thermal materials phenomena spanning the frontiers of high space and energy resolution. Deep connection to experiment influences everything we do.
+</div>

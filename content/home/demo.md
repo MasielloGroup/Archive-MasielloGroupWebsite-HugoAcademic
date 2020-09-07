@@ -49,4 +49,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### _theory of light manipulation on the nanoscale_
+theory of light-matter manipulation on the nanoscale

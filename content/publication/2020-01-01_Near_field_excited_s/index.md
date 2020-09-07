@@ -1,6 +1,6 @@
 +++
 title = "Near field excited state imaging via stimulated electron energy gain spectroscopy of localized surface plasmon resonances in plasmonic nanorod antennas"
-date = "2020-01-01"
+date = "2020-06-01"
 authors = ["Robyn Collette", "David A. Garfinkel", "Zhongwei Hu", "David J. Masiello", "Philip D. Rack"]
 publication_types = ["2"]
 publication = "Scientific Reports, **10**, _pp. 12537_ (2020)."

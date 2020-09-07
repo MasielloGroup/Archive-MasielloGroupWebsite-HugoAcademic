@@ -39,7 +39,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "photothermal spectroscopy <br> and microscopy"
   # description = "100%"  
-  # url = "project/photothermal_spectroscopy_and_microscopy/"
+  url = "project/photothermal_spectroscopy_and_microscopy/"
 
   
 

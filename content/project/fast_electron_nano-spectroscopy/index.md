@@ -24,4 +24,4 @@ url_video: ""
 # - admin
 ---
 
-Pushing the boundaries of fast electron spectroscopy, energy monochromated scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. We leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities. 
+Pushing the boundaries of fast electron spectroscopy, energy-monochromated and aberration-corrected scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. Together with experiment, we leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities. 
