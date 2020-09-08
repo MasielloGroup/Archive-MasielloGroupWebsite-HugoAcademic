@@ -22,7 +22,7 @@ organizations:
 - name: University of Washington 
   url: "http://www.chem.washington.edu/"
 role: Professor of Chemistry
-degrees: Ph.D Chemical Physics, University of Florida <br> B.S. Mathematics, University of Florida
+degrees: Ph.D. Chemical Physics, University of Florida <br> B.S. Mathematics, University of Florida
 social:
 - icon: envelope
   icon_pack: fas
