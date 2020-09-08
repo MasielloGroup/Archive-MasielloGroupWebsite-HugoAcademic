@@ -5,7 +5,7 @@ title: Harrison Goldwyn
 user_groups:
 - Graduate Students
 weight: 20
-# bio: bio
+bio: I'm a 5th year graduate student in David's group at the UW. I tend to focus on building reduced order mathematical models to gain insight into the mechanisms of optical phenomena and make predictions for experiment.
 education:
   courses:
   - course: B.S. Physics

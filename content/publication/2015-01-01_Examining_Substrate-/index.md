@@ -11,6 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
+url_pdf = "https://doi.org/10.1021/acs.jpclett.5b00961"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

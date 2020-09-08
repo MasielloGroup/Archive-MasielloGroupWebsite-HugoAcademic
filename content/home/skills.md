@@ -24,6 +24,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "fast electron <br> nano-spectroscopy"
   # description = "90%"
+  url = "project/fast_electron_nano-spectroscopy/"
 
   
 [[feature]]
@@ -31,12 +32,14 @@ subtitle = ""
   icon_pack = "fas"
   name = "nanophotonics"
   # description = "10%"
+  url = "project/nanophotonics-quantum_optics/"
   
 [[feature]]
   icon = "microscope"
   icon_pack = "fas"
   name = "photothermal spectroscopy <br> and microscopy"
   # description = "100%"  
+  url = "project/photothermal_spectroscopy_and_microscopy/"
 
   
 
@@ -45,6 +48,7 @@ subtitle = ""
  icon_pack = "fas"
  name = "quantum optics"
  # description = "100%"
+ url = "project/nanophotonics-quantum_optics/"
  
  
 [[feature]]
@@ -52,12 +56,13 @@ subtitle = ""
  icon_pack = "fas"
  name = "coffee"
  # description = "100%"
+ url = "coffee/"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # [[feature]]
-#  icon = "your-custom-icon-name"
+#  icon = "microscope-solid"
 #  icon_pack = "custom"
 #  name = "Surfing"
 #  description = "90%"

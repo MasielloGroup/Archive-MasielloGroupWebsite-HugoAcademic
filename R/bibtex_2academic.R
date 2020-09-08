@@ -4,7 +4,7 @@
 #' @modified Peter Paul Pichler (2019) <pichler@pik-potsdam.de>
 
 
-bibfile <- "R/cv.bib"
+bibfile <- "R/website.09.06.20.bib"
 out_fold   <- "R/output"
 
 bibtex_2academic(bibfile  = bibfile, 
@@ -68,6 +68,7 @@ bibtex_2academic <- function(bibfile,
     
     foldername <- paste(x[["date"]], x[["title"]] %>%
                           str_replace_all(fixed(" "), "_") %>%
+                          str_replace_all(fixed("/"), "_") %>%
                           str_remove_all(fixed(":")) %>%
                           str_sub(1, 20), sep = "_")
     
