@@ -1,5 +1,5 @@
 +++
-title = "Comment on ``HgS and HgS/CdS Colloidal Quantum Dots with Infrared Intraband Transitions and Emergence of a Surface Plasmon"
+title = "Comment on "HgS and HgS/CdS Colloidal Quantum Dots with Infrared Intraband Transitions and Emergence of a Surface Plasmon""
 date = "2016-01-01"
 authors = ["Niket Thakkar", "Alina M. Schimpf", "Carolyn E. Gunthardt", "Daniel R. Gamelin", "David J. Masiello"]
 publication_types = ["2"]
