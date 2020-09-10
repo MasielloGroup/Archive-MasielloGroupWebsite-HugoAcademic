@@ -1,6 +1,6 @@
 +++
 title = "Electron Beam Infrared Nano-Ellipsometry of Individual Indium Tin Oxide Nanocrystals"
-date = "2020-09-06"
+date = "2020-09-01"
 authors = ["Agust Olafsson", "Jacob A. Busche", "Jose J. Araujo", "Arpan Maiti", "Juan Carlos Idrobo", "Daniel R. Gamelin", "David J. Masiello", "Jon P. Camden"]
 publication_types = ["2"]
 publication = "Nano Letters, **accepted** (2020)."

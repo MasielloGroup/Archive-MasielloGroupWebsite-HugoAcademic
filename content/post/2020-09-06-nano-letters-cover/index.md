@@ -1,5 +1,5 @@
 ---
-title: Nano Letters Cover
+title: Nano Letters Cover (Again!)
 author: David J. Masiello
 date: '2020-09-06'
 slug: nano-letters-cover
@@ -17,4 +17,4 @@ image:
 projects: []
 external_link: ''
 ---
-For the second time this year, we've made the cover of _Nano Letters_! This time Jake's work on EELS-based nano-ellipsometry of individual ITO nanocrystals was selected. This work was collaborative with the Camden group at Notre Dame and Gamelin group at UW.
+Lightning has struck again. For the second time this year, we've made the cover of _Nano Letters_! This time Jake's work on EELS-based nano-ellipsometry of individual ITO nanocrystals was selected. This work was collaborative with the Camden group at Notre Dame and Gamelin group at UW.
