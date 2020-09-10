@@ -1,5 +1,5 @@
 +++
-title = "Infrared plasmonics: STEM-EELS characterization of Fabry-P\'erot resonance damping in gold nanowires"
+title = "Infrared plasmonics: STEM-EELS characterization of Fabry-Pérot resonance damping in gold nanowires"
 date = "2020-01-01"
 authors = ["Yueying Wu", "Zhongwei Hu", "Xiang-Tian Kong", "Juan Carlos Idrobo", "Austin G. Nixon", "Philip D. Rack", "David J. Masiello", "Jon P. Camden"]
 publication_types = ["2"]
