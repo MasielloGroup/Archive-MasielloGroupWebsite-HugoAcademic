@@ -1,7 +1,7 @@
 +++
 title = "Spatially mapping energy transfer from single plasmonic particles to semiconductor substrates via STEM/EELS"
 date = "2015-01-01"
-authors = ["G. Li", "C. Cherqui", "N. W. Bigelow", "G. Duscher", "P. J. et al. Straney"]
+authors = ["Guoliang Li", "Charles Cherqui", "Nicholas W. Bigelow", "Gerd Duscher", "Patrick J. Straney", "Jill E. Millstone", "David J. Masiello", "Jon P. Camden"]
 publication_types = ["2"]
 publication = "Nano Letters, **15**, _pp. 3465-71_ (2015)."
 publication_short = "Nano Letters, **15**, _pp. 3465-71_ (2015)."
