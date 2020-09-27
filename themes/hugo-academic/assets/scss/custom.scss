@@ -1,1 +1,23 @@
 // Override this file to add your own SCSS styling.
+// To number publications. Set c1 as total number of publications //
+.universal-wrapper {
+counter-reset: c1 59; // Set this c1 manually to numb pubs + 1 //
+}
+.grid-sizer.col-lg-12.isotope-item {
+counter-increment: c1 -1;
+}
+.article-metadata.li-cite-author:before {
+content: counter(c1) ".";
+font-weight: bold;
+margin-right: 5px;
+text-align: right;
+display: inline-block;
+}
+
+.article-metadata.li-compact-title:before {
+content: counter(c1) ".";
+font-weight: bold;
+margin-right: 5px;
+text-align: right;
+display: inline-block;
+}

@@ -11,6 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
+url_source = "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b10200"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -18,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_pdf = ""
 math = true
 highlight = true
 [header]

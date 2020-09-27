@@ -2,14 +2,10 @@
 #' @description import publications from a bibtex file to a hugo-academic website
 #' @author Lorenzo Busetto, phD (2017) <lbusett@gmail.com>
 #' @modified Peter Paul Pichler (2019) <pichler@pik-potsdam.de>
+# modified by Katie Masiello (2020) 
 
-
-bibfile <- "R/website.09.06.20.bib"
-out_fold   <- "R/output"
-
-bibtex_2academic(bibfile  = bibfile, 
-                 outfold   = out_fold, 
-                 abstract  = FALSE)
+# 
+# see update_pubs.R for making updates to publications
 
 
 bibtex_2academic <- function(bibfile,
@@ -131,7 +127,7 @@ bibtex_2academic <- function(bibfile,
       write("tags = []", fileConn, append = T)
       #links
       if (!is.na(x[["url"]])){
-      write(paste0("url_pdf = \"", x[["url"]],"\""), fileConn, append = T)
+      write(paste0("url_source = \"", x[["url"]],"\""), fileConn, append = T)
       }
       write("url_preprint = \"\"", fileConn, append = T)
       write("url_code = \"\"", fileConn, append = T)
@@ -140,7 +136,7 @@ bibtex_2academic <- function(bibfile,
       write("url_slides = \"\"", fileConn, append = T)
       write("url_video = \"\"", fileConn, append = T)
       write("url_poster = \"\"", fileConn, append = T)
-      write("url_source = \"\"", fileConn, append = T)
+      write("url_pdf = \"\"", fileConn, append = T)
       #other stuff
       write("math = true", fileConn, append = T)
       write("highlight = true", fileConn, append = T)

@@ -9,7 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
-projects = []
+projects = ["fast_electron_nano-spectroscopy"]
 tags = []
 url_preprint = ""
 url_code = ""
@@ -18,7 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_pdf = ""
 math = true
 highlight = true
 [header]

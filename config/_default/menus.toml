@@ -32,7 +32,7 @@
   
 [[main]]
   name = "NSF DMREF"
-  url = "http://faculty.washington.edu/masiello/DMREF/"
+  url = "https://faculty.washington.edu/masiello/DMREF/"
   weight = 35
   
 [[main]]
