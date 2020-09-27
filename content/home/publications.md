@@ -36,7 +36,7 @@ subtitle = ""
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   4 = Citation (publication only)
+  #   4 = Citation (publication only) # My custom built = Compact with reverse pub numbers
   view = 2
   
 [design.background]
