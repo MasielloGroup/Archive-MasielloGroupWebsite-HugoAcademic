@@ -18,6 +18,7 @@ bibtex_2academic <- function(bibfile,
   require(stringr)
   require(anytime)
   require(tibble)
+  require(lubridate)
   
   # Import the bibtex file and convert to data.frame
   mypubs   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8") %>%
@@ -57,7 +58,22 @@ bibtex_2academic <- function(bibfile,
     
     # define a date and create filename by appending date and start of title
     if (!is.na(x[["year"]])) {
-      x[["date"]] <- paste0(x[["year"]], "-01-01")
+      #if there is a month entry - extract this
+      if (!is.na(x[["month"]])){
+        # first put month in numeric format
+         #  if numeric
+        if(x[["month"]] %in% 1:12){
+          month <- x[["month"]] 
+        }else if(x[["month"]] %in% month.name){
+          month <- which(month.name == x[["month"]])
+        }else if(x[["month"]] %in% month.abb){
+          month <- which(month.abb == x[["month"]])
+        }else{month<-"01"}
+        } else {
+          month<-"01"}
+      # now ensure month is padded
+      month <- str_pad(month, 2, pad = "0")
+      x[["date"]] <- paste(x[["year"]], month,"01",sep="-")
     } else {
       x[["date"]] <- "2999-01-01"
     }

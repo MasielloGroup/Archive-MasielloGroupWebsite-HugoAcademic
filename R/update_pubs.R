@@ -4,14 +4,14 @@
 #   - Replace the index.md files but if there is a feature image, keep this
 #   - Do this in the R/output folder but then make it drag and dropable into the content > publication folder
 
-bibfile <- "R/website.09.19.20.bib"
+bibfile <- "R/website.09.26.20.bib"
 out_fold   <- "R/output"
 
 # Run bibtex_2academic.R script with output going to R/output
 update_pubs <- function(bibfile, outfold) {
-  library(fs)
-  library(purrr)
-  library(magrittr)
+  require(fs)
+  require(purrr)
+  require(magrittr)
 
   #process bibtex file and write output to outfold
   source(path("R","bibtex_2academic.R"))
