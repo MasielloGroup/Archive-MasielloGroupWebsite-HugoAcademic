@@ -1,0 +1,14 @@
+---
+title: "reminders"
+author: "Katie Masiello"
+date: "1/16/2021"
+output: html_document
+---
+
+Publications view uses li_compact 
+
+search files for "// Set this c1 manually to numb pubs + 1 //" to find custom.scss in themes/hugo-academic/assets/scss/custom.scss for renumbering publications
+
+"View 4" is my custom view which was built from View 2 Compact with the add of reverse publication numbers
+
+to change the label in the publication buttons ("URL", "cite", etc. look in en.yaml)
