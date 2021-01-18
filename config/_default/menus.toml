@@ -35,21 +35,21 @@
   url = "https://faculty.washington.edu/masiello/DMREF/"
   weight = 35
   
-[[main]]
-  name = "e-DDA"
-  url = "codes/e-dda"
-  parent = "Codes"
-  weight = 50
+#[[main]]
+#  name = "e-DDA"
+#  url = "codes/e-dda"
+#  parent = "Codes"
+#  weight = 50
   
-[[main]]
-  name = "T-DDA"
-  url = "codes/t-dda"
-  parent = "Codes"
-  weight = 55
+#[[main]]
+#  name = "T-DDA"
+#  url = "codes/t-dda"
+#  parent = "Codes"
+#  weight = 55
   
 [[main]]
   name = "Codes"
-  url = ""
+  url = "codes"
   weight = 40  
 
 
