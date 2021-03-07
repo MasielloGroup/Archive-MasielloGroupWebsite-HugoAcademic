@@ -11,7 +11,7 @@ subtitle = ""
 +++
 See our Github site for relevant group codes:
 
-* **<a href=https://github.com/MasielloGroup/t-dda>T-DDA</a>: Calculation of steady-state temperature profile**  
+* **<a href=https://github.com/MasielloGroup/t-dda>T-DDA</a>: Thermal Discrete Dipole Approximation**  
 This code calculates the steady-state temperature distribution of nanoparticles on a semi-infinite substrate, embedded in a semi-infinite background medium by solving the discretized steady-state heat diffusion equation.  
 
 * **<a href=https://github.com/MasielloGroup/eDDA>eDDA</a>: Electron Beam Driven Discrete Dipole Approximation**  
