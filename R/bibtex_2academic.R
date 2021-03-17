@@ -7,6 +7,9 @@
 # 
 # see update_pubs.R for making updates to publications
 
+bibfile <- "R/newpub.bib"
+out_fold   <- "R/output"
+bibtex_2academic(bibfile, out_fold)
 
 bibtex_2academic <- function(bibfile,
                              outfold,

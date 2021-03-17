@@ -11,11 +11,11 @@ subtitle = ""
 +++
 See our Github site for relevant group codes:
 
-* **<a href=https://github.com/MasielloGroup/t-dda>T-DDA</a>: Thermal Discrete Dipole Approximation**  
+* **<a href=https://github.com/MasielloGroup/t-dda>T-DDA: Thermal Discrete Dipole Approximation</a>**  
 This code calculates the steady-state temperature distribution of nanoparticles on a semi-infinite substrate, embedded in a semi-infinite background medium by solving the discretized steady-state heat diffusion equation.  
 
-* **<a href=https://github.com/MasielloGroup/eDDA>eDDA</a>: Electron Beam Driven Discrete Dipole Approximation**  
-This code is a modified version of Draine's Discrete Dipole Approximation (DDA) code version 7.1. We have modified the code to to allow for an electron beam excitation source. The code computes the electron energy loss spectroscopy (EELS)) and angle-resolved cathodoluminescence (CL) for both aloof and internal geometries.  
+* **<a href=https://github.com/MasielloGroup/eDDA>e-DDA: Electron Beam Driven Discrete Dipole Approximation</a>**  
+This code is a modified version of Draine's Discrete Dipole Approximation (DDA) code version 7.1. We have modified the code to to allow for an electron beam excitation source. The code computes the electron energy loss spectroscopy (EELS) and angle-resolved cathodoluminescence (CL) for both aloof and internal geometries.  
 
 
 * **<a href=https://github.com/MasielloGroup/confocal_photothermal_pipeline>Confocal Photothermal Image Pipeline</a>**  
