@@ -20,7 +20,7 @@ organizations:
 - name: University of Washington 
   url: "http://www.chem.washington.edu/"
 role: Graduate Student, Physics
-degrees: B.S. Phjysics, Swarthmore College
+degrees: B.S. Physics, Swarthmore College
 social:
 - icon: envelope
   icon_pack: fas
