@@ -1,7 +1,7 @@
 ---
 title: Congratulations Graduates!
 author: David J. Masiello
-date: '2021-08-21'
+date: '2021-08-20'
 slug: congratulations-graduates
 categories: []
 tags: []

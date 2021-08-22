@@ -1,7 +1,7 @@
 ---
 title: Welcome New Students!
 author: David J. Masiello
-date: '2021-08-20'
+date: '2021-08-18'
 slug: welcome-new-students
 categories: []
 tags: []

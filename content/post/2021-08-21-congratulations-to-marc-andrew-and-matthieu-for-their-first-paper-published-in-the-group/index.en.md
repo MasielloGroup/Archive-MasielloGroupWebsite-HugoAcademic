@@ -17,3 +17,4 @@ image:
   preview_only: no
 projects: []
 ---
+Their work, published in JPCC, demonstrates a new route to beaming electromagnetic radiation via the lattice Kerker effect.
