@@ -2,9 +2,9 @@
 title = "Lattice Kerker Effect with Plasmonic Oligomers"
 date = "2021-08-19"
 authors = ["Marc R. Bourgeois", "Andrew W. Rossi", "Matthieu Chalifour", "Charles Cherqui", "David J. Masiello"]
-publication_types = ["0"]
-publication = "The Journal of Physical Chemistry C, **Article ASAP**, (2021)."
-publication_short = "The Journal of Physical Chemistry C, **Article ASAP**, (2021)."
+publication_types = ["2"]
+publication = "Journal of Physical Chemistry C, **Article ASAP**, (2021)."
+publication_short = "Journal of Physical Chemistry C, **Article ASAP**, (2021)."
 abstract = ""
 abstract_short = ""
 image_preview = ""

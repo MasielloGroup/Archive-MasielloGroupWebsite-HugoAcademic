@@ -1,6 +1,6 @@
 +++
 title = "Coupled Dipole Modeling and Experimental Characterization of Geometry-Dependent Trochoidal Dichroism in Nanorod Trimers"
-authors = ["Rashad Baiyasi", "Harrison J. Goldwyn", "Lauren McCarthy", "Claire A. West", "Seyyed Ali Hosseini Jebeli", "David J. Masiello", "Stephan Link", "Christy Landes"]
+authors = ["Rashad Baiyasi", "Harrison J. Goldwyn", "Lauren A. McCarthy", "Claire A. West", "Seyyed Ali Hosseini Jebeli", "David J. Masiello", "Stephan Link", "Christy F. Landes"]
 date = '2021-03-17'
 publication_types = ["2"]
 publication = "ACS Photonics, **8**, _pp. 1159–1168_ (2021)."

@@ -1,7 +1,7 @@
 +++
 title = "Probing Nanoparticle Substrate Interactions with Synchrotron Infrared Nanospectroscopy: Coupling Gold Nanorod Fabry-Pérot Resonances with SiO2 and hBN Phonons"
 date = "2021-01-20"
-authors = ["Joseph J. Liberko", "Jacob A. Busche", "Robyn Collette", "Hans A. Bechtel", "Philip D. Rack", "David J. Masiello", "Jon P. Camden"]
+authors = ["Joseph J. Liberko", "Jacob A. Busche", "Robyn Seils", "Hans A. Bechtel", "Philip D. Rack", "David J. Masiello", "Jon P. Camden"]
 publication_types = ["2"]
 publication = "Physical Review B, **104**, *pp. 035412* (2021)."
 publication_short = "Physical Review B, **104**, *pp. 035412* (2021)."
