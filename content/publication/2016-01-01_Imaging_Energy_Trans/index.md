@@ -11,6 +11,7 @@ image_preview = ""
 selected = false
 projects = ["fast_electron_nano-spectroscopy"]
 tags = []
+url_source = "https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b01878"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

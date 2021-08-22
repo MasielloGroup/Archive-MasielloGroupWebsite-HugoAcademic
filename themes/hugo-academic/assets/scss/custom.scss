@@ -1,7 +1,7 @@
 // Override this file to add your own SCSS styling.
 // To number publications. Set c1 as total number of publications //
 .universal-wrapper {
-counter-reset: c1 68; // Set this c1 manually to numb pubs + 1 //
+counter-reset: c1 69; // Set this c1 manually to numb pubs + 1 //
 }
 .grid-sizer.col-lg-12.isotope-item {
 counter-increment: c1 -1;
