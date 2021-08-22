@@ -1,30 +1,33 @@
 ---
 authors:
 - Kevin Smith
-title: Kevin Smith
+title: Kevin Smith, Ph.D.
 user_groups:
-- Graduate Students
+- Alumni
 weight: 50
 # bio: bio
 education:
   courses:
+  - course: Ph.D. Physics
+    institution: University of Washington
+    year: 2021
   - course: B.S. Physics and Mathematics
     institution: UMass Amherst
      # year:
-email: "kcsmith3@uw.edu"
+# email: "kcsmith3@uw.edu"
 # interests:
 # - Interest 1
 # - Interest 2
 # - Interest 3
-organizations:
-- name: University of Washington 
-  url: "https://phys.washington.edu/"
+# organizations:
+# - name: University of Washington 
+#   url: "https://phys.washington.edu/"
 role: Graduate Student, Physics
-degrees: B.S. Physics and Mathematics, UMass Amherst
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:kcsmith3@uw.edu'
+# degrees: B.S. Physics and Mathematics, UMass Amherst
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:kcsmith3@uw.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: 

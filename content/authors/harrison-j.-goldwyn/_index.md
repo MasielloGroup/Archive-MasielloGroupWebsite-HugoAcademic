@@ -1,30 +1,33 @@
 ---
 authors: 
-- goldwynh
-title: Harrison Goldwyn
+- Harrison J. Goldwyn
+title: Harrison Goldwyn, Ph.D.
 user_groups:
-- Graduate Students
+- Alumni
 weight: 20
-bio: I'm a 5th year graduate student in David's group at the UW. I tend to focus on building reduced order mathematical models to gain insight into the mechanisms of optical phenomena and make predictions for experiment.
+bio: I tend to focus on building reduced order mathematical models to gain insight into the mechanisms of optical phenomena and make predictions for experiment.
 education:
   courses:
+  - course: Ph.D. Chemistry
+    institution: University of Washington
+    year: 2020
   - course: B.S. Physics
     institution: UC Santa Barbara
      # year:
-email: "goldwyn@uw.edu"
+# email: "goldwyn@uw.edu"
 # interests:
 # - Interest 1
 # - Interest 2
 # - Interest 3
-organizations:
-- name: University of Washington 
-  url: "http://www.chem.washington.edu/"
+# organizations:
+# - name: University of Washington 
+#   url: "http://www.chem.washington.edu/"
 role: Graduate Student, Chemistry
-degrees: B.S. Physics, UC Santa Barbara
+# degrees: B.S. Physics, UC Santa Barbara
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:goldwyn@uw.edu'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:goldwyn@uw.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: 
