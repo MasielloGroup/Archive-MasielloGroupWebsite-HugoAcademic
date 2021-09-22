@@ -1,6 +1,6 @@
 ---
 authors:
-- bhattacharya
+- Aniruddha Bhattacharya
 title: Aniruddha Bhattacharya
 user_groups:
 - Post-Doctoral Fellows
