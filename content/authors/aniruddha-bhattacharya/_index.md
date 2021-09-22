@@ -1,7 +1,7 @@
 ---
 authors:
 - bhattacharya
-title: Aniruddha (Ronnie) Bhattacharya
+title: Aniruddha Bhattacharya
 user_groups:
 - Post-Doctoral Fellows
 # bio: bio
