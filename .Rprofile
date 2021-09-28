@@ -1,3 +1,4 @@
+source("renv/activate.R")
 options(blogdown.author = 'David J. Masiello')
 
 # fix Hugo version
