@@ -49,4 +49,4 @@ jobs:
         run: ssh-keyscan -H "${{ env.SSH_HOST }}" >> ~/.ssh/known_hosts
 
       - name: Deploy with rsync
-        run: rsync -avz ./public/ "${{ env.SSH_USER }}"@"${{ env.SSH_HOST }}":public/.
+        run: rsync -avz ./public/ "${{ env.SSH_USER }}"@"${{ env.SSH_HOST }}":public_html/public/.
