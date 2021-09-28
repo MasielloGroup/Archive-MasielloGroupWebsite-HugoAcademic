@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": null,
-        "URL": "https://packagemanager.rstudio.com/cran/2021-07-22"
+        "URL": "https://packagemanager.rstudio.com/cran/latest"
       }
     ]
   },
@@ -394,3 +394,4 @@
     }
   }
 }
+
