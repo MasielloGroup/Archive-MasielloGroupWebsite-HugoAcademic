@@ -6,7 +6,7 @@ name: ssh-deploy-test
 on:
   push:
     branches:
-      - main
+#      - main
 jobs:
   deploy-to-ssh:
     runs-on: ubuntu-latest
