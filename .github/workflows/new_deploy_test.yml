@@ -29,11 +29,11 @@ jobs:
           install.packages("renv")
         shell: Rscript {0}
 
-#      - name: Restore environment
-#        run: |
-#          renv::consent(TRUE)
-#          renv::restore()
-#        shell: Rscript {0}
+      - name: Restore environment
+        run: |
+          renv::consent(TRUE)
+          renv::restore()
+        shell: Rscript {0}
       
 #      - name: Setup Pandoc
 #        uses: r-lib/actions/setup-pandoc@v1
