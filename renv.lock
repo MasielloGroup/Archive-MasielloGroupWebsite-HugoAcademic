@@ -3,8 +3,8 @@
     "Version": "4.0.2",
     "Repositories": [
       {
-        "Name": "https://packagemanager.rstudio.com/cran/latest",
-        "URL": "https://packagemanager.rstudio.com/cran/latest"
+        "Name": null,
+        "URL": "https://packagemanager.rstudio.com/all/latest"
       }
     ]
   },
@@ -296,10 +296,9 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "0.13.0",
+      "Version": "0.15.4",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "9f10d9db5b50400c348920c5c603385e"
+      "Repository": null
     },
     "rlang": {
       "Package": "rlang",
