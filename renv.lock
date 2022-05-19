@@ -3,7 +3,7 @@
     "Version": "4.0.2",
     "Repositories": [
       {
-        "Name": null,
+        "Name": "https://packagemanager.rstudio.com/cran/latest",
         "URL": "https://packagemanager.rstudio.com/cran/latest"
       }
     ]
@@ -184,6 +184,13 @@
       "Repository": "RSPM",
       "Hash": "a525aba14184fec243f9eaec62fbed43"
     },
+    "jquerylib": {
+      "Package": "jquerylib",
+      "Version": "0.1.4",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "5aab57a3bd297eee1c1d862735972182"
+    },
     "jsonlite": {
       "Package": "jsonlite",
       "Version": "1.7.2",
@@ -303,10 +310,10 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.9",
+      "Version": "2.11",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "912c09266d5470516df4df7a303cde92"
+      "Hash": "320017b52d05a943981272b295750388"
     },
     "servr": {
       "Package": "servr",
@@ -394,4 +401,3 @@
     }
   }
 }
-
