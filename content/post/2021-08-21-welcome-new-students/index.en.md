@@ -16,4 +16,4 @@ image:
   preview_only: no
 projects: []
 ---
-Warm welcome to new graduate students Matthieu Chalifour, Austin Nixon, Nicole Panec, and Andrew Rossi!
+Warm welcome to new graduate students Matthieu Chalifour, Austin Nixon, Nicole Panek, and Andrew Rossi!
