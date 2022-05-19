@@ -22,8 +22,7 @@ education:
 # organizations:
 # - name: University of Washington 
 #   url: "http://www.chem.washington.edu/"
-# role: Graduate Student, Chemistry
-degrees: Ph.D. Chemistry, University of Washington <br> B.S. Physics, UC Santa Barbara
+role: Graduate Student, Chemistry
 # social:
 # - icon: envelope
 #   icon_pack: fas
