@@ -1,0 +1,52 @@
+#with great thanks to: 
+#https://solutions.rstudio.com/data-science-admin/deploy/github-actions/
+#https://github.com/Nenuial/DGMLausanne/blob/933ccb1d86b052cbcdae5151ea8396533d78d242/.github/workflows/deploy_blogdown.yml 
+#and https://zellwk.com/blog/github-actions-deploy/ 
+name: ssh-deploy-test
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy-to-ssh:
+    runs-on: ubuntu-latest
+    env:
+      SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      SSH_HOST: ${{ secrets.SSH_HOST }}
+      SSH_USER: ${{ secrets.SSH_USER }}
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: r-lib/actions/setup-r@master
+
+      - name: Install renv
+        run: |
+          install.packages("renv")
+        shell: Rscript {0}
+
+#      - name: Restore environment
+#        run: |
+#          renv::consent(TRUE)
+#          renv::restore()
+#        shell: Rscript {0}
+      
+#      - name: Setup Pandoc
+#        uses: r-lib/actions/setup-pandoc@v1
+      
+#      - name: Install Hugo
+#        run: Rscript -e 'blogdown::install_hugo("0.72.0")'
+        
+#      - name: Render blog
+#        run: Rscript -e 'blogdown::build_site(local = FALSE, run_hugo = TRUE, build_rmd = TRUE)'
+        
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: "${{ env.SSH_PRIVATE_KEY }}"
+          known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+
+      - name: Adding Known Hosts
+        run: ssh-keyscan -H "${{ env.SSH_HOST }}" >> ~/.ssh/known_hosts
+
+#      - name: Deploy with rsync
+#        run: rsync -avz ./public/ "${{ env.SSH_USER }}"@"${{ env.SSH_HOST }}":public_html/public/.
