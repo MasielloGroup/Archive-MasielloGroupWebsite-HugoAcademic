@@ -1,0 +1,28 @@
++++
+title = "Polarization-Resolved Electron Energy Gain Nanospectroscopy With Vortex Beams"
+date = "2022-07-15"
+authors = ["Marc R. Bourgeois", "Austin G. Nixon", "Matthieu Chalifour", "Elliot K. Beutler", "David J. Masiello"]
+publication_types = ["2"]
+publication = "under review (2022)"
+publication_short = "under review (2022)"
+abstract = ""
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = ["fast_electron_nano-spectroscopy", "nanophotonics-quantum_optics"]
+tags = []
+url_source = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_pdf = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++

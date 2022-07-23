@@ -5,6 +5,11 @@ date: "1/16/2021"
 output: html_document
 ---
 
+research groups are: 
+- fast_electron_nano-spectroscopy
+- nanophotonics-quantum_optics
+- photothermal_spectroscopy_and_microscopy
+
 Publications view uses li_compact 
 
 search files for "// Set this c1 manually to numb pubs + 1 //" to find custom.scss in themes/hugo-academic/assets/scss/custom.scss for renumbering publications

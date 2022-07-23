@@ -9166,7 +9166,7 @@ html[dir="rtl"] body {
   text-align: right; }
 
 .universal-wrapper {
-  counter-reset: c1 76; }
+  counter-reset: c1 78; }
 
 .grid-sizer.col-lg-12.isotope-item {
   counter-increment: c1 -1; }
