@@ -4,6 +4,10 @@ author: "Katie Masiello"
 date: "1/16/2021"
 output: html_document
 ---
+```{r}
+library(rmarkdown)
+library(blogdown)
+```
 
 research groups are: 
 - fast_electron_nano-spectroscopy
