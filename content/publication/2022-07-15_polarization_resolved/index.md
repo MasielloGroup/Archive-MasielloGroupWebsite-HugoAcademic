@@ -1,10 +1,10 @@
 +++
-title = "Polarization-Resolved Electron Energy Gain Nanospectroscopy With Vortex Beams"
+title = "Polarization-Resolved Electron Energy Gain Nanospectroscopy With Phase-Structured Electron Beams"
 date = "2022-07-15"
 authors = ["Marc R. Bourgeois", "Austin G. Nixon", "Matthieu Chalifour", "Elliot K. Beutler", "David J. Masiello"]
 publication_types = ["2"]
-publication = "Nano Letters, accepted (2022)"
-publication_short = "Nano Letters, accepted (2022)"
+publication = "Nano Letters, **22**, _pp. 7158–7165_  (2022)"
+publication_short = "Nano Letters, **22**, _pp. 7158–7165_ (2022)"
 abstract = ""
 abstract_short = ""
 image_preview = ""
