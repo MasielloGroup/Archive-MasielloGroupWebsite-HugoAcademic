@@ -13,7 +13,10 @@ education:
 email: "mhilyar2@uw.edu"
 role: Graduate Student, Materials Science and Engineering
 degrees: B.S. Chemistry, University of Toledo
-
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:mhilyar2@uw.edu'
 superuser: false
 ---
 

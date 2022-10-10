@@ -21,9 +21,9 @@ email: "xfguo93@uw.edu"
 role: Graduate Student, Chemistry
 # degrees: B.S. Physics, UC Santa Barbara
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:goldwyn@uw.edu'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:xfguo93@uw.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: 

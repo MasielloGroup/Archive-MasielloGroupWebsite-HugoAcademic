@@ -1,7 +1,7 @@
 ---
 authors:
 - Aniruddha Bhattacharya
-title: Aniruddha Bhattacharya
+title: Aniruddha Bhattacharya, Ph.D.
 weight: 3
 user_groups:
 - Alumni
