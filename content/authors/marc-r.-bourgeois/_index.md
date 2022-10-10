@@ -2,6 +2,7 @@
 authors:
 - bourgeoism
 title: Marc Bourgeois
+weight: 10
 user_groups:
 - Post-Doctoral Fellows
 # bio: bio
@@ -17,14 +18,10 @@ education:
     institution: Northwestern University
     # year:
 email: "mrb179@uw.edu"
-# interests:
-# - Interest 1
-# - Interest 2
-# - Interest 3
 organizations:
 - name: University of Washington 
   url: "http://www.chem.washington.edu/"
-role: Post-Doctoral Fellow
+role: Research Scientist
 degrees: Ph.D. Chemistry, Northwestern University <br> M.S. Physics, University of Arizona <br> B.A. Physics, Math, and Integrated Sciences, Northwestern University 
 social:
 - icon: envelope

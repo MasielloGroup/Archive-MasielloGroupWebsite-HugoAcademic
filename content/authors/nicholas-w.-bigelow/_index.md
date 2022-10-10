@@ -1,7 +1,7 @@
 ---
 authors:
 - Nicholas W. Bigelow
-weight: 2
+weight: 6
 # education:
 #   courses:
 #   - course: Ph.D. Physics
