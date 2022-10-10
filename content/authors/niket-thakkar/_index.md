@@ -1,7 +1,7 @@
 ---
 authors:
 - Niket Thakkar
-# weight: 16
+weight: 70
 # education:
 #   courses:
 #   - course: Ph.D. Physics

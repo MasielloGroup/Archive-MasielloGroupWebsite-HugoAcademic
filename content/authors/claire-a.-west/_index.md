@@ -4,7 +4,7 @@ authors:
 title: Claire West, Ph.D.
 user_groups:
 - Alumni
-# weight: 90
+weight: 90
 # bio: Claire is a 4th year graduate student in the Masiello group who leads both the exploration of systems capable of supporting tunable thermal profiles, as well as the development of the computational tools necessary to describe such photothermal heating.
 education:
   courses:
