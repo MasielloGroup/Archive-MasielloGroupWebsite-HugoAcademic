@@ -19,7 +19,7 @@ email: "xfguo93@uw.edu"
 # - name: University of Washington 
 #   url: "http://www.chem.washington.edu/"
 role: Graduate Student, Chemistry
-# degrees: B.S. Physics, UC Santa Barbara
+degrees: B.S. Chemistry, Bard College
 social:
 - icon: envelope
   icon_pack: fas
