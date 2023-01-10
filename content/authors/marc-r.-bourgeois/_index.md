@@ -14,7 +14,7 @@ education:
   - course: M.S. Physics
     institution: University of Arizona
     # year:
-  - course: B.A. Physics, Math, and Integrated Sciences
+  - course: B.A. Physics, Mathematics, and Integrated Sciences
     institution: Northwestern University
     # year:
 email: "mrb179@uw.edu"
